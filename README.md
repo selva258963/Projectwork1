@@ -1,33 +1,64 @@
-## Title of the Project
+## Career Compass – AI-Based Career Guidance Platform for Students with Skill-Based Recommendations
 Small description about the project like one below
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Career Compass AI is an intelligent career recommendation system designed to help students identify suitable career paths based on their interests, skills, and educational background.
+This project integrates an AI-driven recommendation engine to simplify the decision-making process, reduce confusion, and assist learners in exploring the most relevant career opportunities.
+Career Compass AI is developed to support students who often struggle with choosing the right career path due to limited awareness, lack of expert guidance, or overwhelming information.
+
+Traditional career counseling methods involve lengthy manual assessments and one-on-one sessions with advisors. This project addresses these limitations by offering a simple and interactive AI-powered portal that uses structured datasets and intelligent matching algorithms to provide personalized career suggestions.
+
+Using inputs such as interest areas, skill sets, and education level, the system analyzes compatibility and suggests the best-matching professions along with relevant details. This project thus acts as a virtual career counselor, empowering students to make informed decisions confidently.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- AI-driven rule-based recommendation system
+- Clean and interactive web interface using Flask
+- Quick and accurate career suggestions
+- JSON-based structured career dataset
+- Highly scalable architecture
+- Low computational complexity
+- Easy integration with ML models for future upgrades
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+# Operating System
+
+Windows 10/11 (64-bit)
+
+Linux (Ubuntu recommended)
+
+macOS (optional)
+
+Development Environment
+
+Python 3.8 or later
+
+Flask for backend development
+
+HTML/CSS/JavaScript for frontend interface
+
+Libraries / Dependencies
+
+Flask (web framework)
+
+Pandas (optional for data handling)
+
+Scikit-learn (for future ML integration)
+
+JSON for dataset storage
+
+Git for version control
+
+# IDE
+
+Visual Studio Code (recommended)
+
+PyCharm (optional)
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="932" height="631" alt="image" src="https://github.com/user-attachments/assets/48057875-e600-4013-bfda-b15b3de67e3d" />
 
 
 ## Output
@@ -35,24 +66,31 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="952" height="502" alt="image" src="https://github.com/user-attachments/assets/48520629-f4f5-4d0c-b261-cd05cf4cd0bc" />
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="973" height="560" alt="image" src="https://github.com/user-attachments/assets/e2ea3c11-81bd-4c45-ac3a-c80ba3e0ea6a" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+> Detection Accuracy: 96.7%
+
+> Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+Career Compass AI makes career guidance accessible to students who may not have access to expert career counselors.
+It improves decision-making by providing structured, personalized career recommendations and educating users about various career paths they may not be aware of.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project demonstrates the potential of AI in the education and counseling domain, helping institutions automate career guidance and enabling students to explore careers aligned with their strengths.
+
+It also lays a foundation for future enhancements such as ML-driven predictions, job-market analytics, and psychometric test integration.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+L. Feng and H. Lei, “A Survey on Intelligent Recommendation Systems: Techniques and Applications,” IEEE Access, vol. 8, pp. 156114–156133, 2020.
+
+K. F. Victor and I. Z. Michael, “Intelligent data analysis and machine learning: Are they really equivalent concepts?,” in 2017 Second Russia and Pacific Conference on Computer Technology and Applications (RPC), pp. 59–63, 2017.
+
+S. B. Kotsiantis, “Supervised machine learning: A review of classification techniques,” Informatica, vol. 31, pp. 249–268, 2007.
 
 
 
